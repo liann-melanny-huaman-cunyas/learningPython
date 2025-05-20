@@ -8,18 +8,18 @@ Repositorio de prácticas y recursos desarrollados para el curso de **Maestría 
 
 ### 📂 Contenido
 
-- 🐍 Fundamentos de Python
-- 📊 Análisis de Datos con Pandas y Numpy
-- 📈 Visualización con Matplotlib y Seaborn
-- 🤖 Introducción al Machine Learning con Scikit-learn
+- 🐍 Fundamentos de Python  
+- 📊 Análisis de Datos con Pandas y Numpy  
+- 📈 Visualización con Matplotlib y Seaborn  
+- 🤖 Introducción al Machine Learning con Scikit-learn  
 - 🧠 Proyectos de ejemplo y casos aplicados
 
 ---
 
-### 🧑‍🎓 Autora
+### 🧑‍🎓 Aut(a
 
-**Liann Melanny Huamán Cuyas**
-Estudiante de Maestría en Gerencia de Tecnologías de la Información
+**Liann Melanny Huamán Cunyas**  
+Estudiante de Maestría en Gerencia de Tecnologías de la Información  
 
 ---
 
