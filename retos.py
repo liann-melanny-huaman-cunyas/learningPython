@@ -41,3 +41,31 @@ for i in range(len(matrix)):
         print(f"El primer elemento de la fila {i} {matrix[i][0]} es par")
     else:
         print(f"El primer elemento de la fila {i} {matrix[i][0]} es impar")
+
+##definir una tupla d elongitud 3 
+
+my_tupla = "liann","24","mujer"
+print(my_tupla)
+
+my_tuple = ("liann", 24, "mujer","ingeniera","sistemas")
+var1, _, _, var4, var5 = my_tuple
+
+print(var1, var4, var5)
+
+my_list=[1,2,3,4,5,6,7,8]
+new_list=tuple(my_list)
+
+even_tuple = tuple(filter(lambda x: x % 2 == 0, my_list))
+print(even_tuple)
+
+par_tuple =tuple(x for x in my_list if x % 2 == 0)
+print(par_tuple)
+
+par_list = []
+for i in my_list:
+    if i % 2 == 0:
+        print(i)
+        par_list.append(i)
+
+par_tuple2 = tuple(par_list)
+print("Tupla de pares:", par_tuple2)
