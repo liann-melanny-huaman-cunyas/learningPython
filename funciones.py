@@ -66,3 +66,52 @@ def descuento(prenda,precio,descuento=0):
 
 print(descuento("camisa", 100, 20))
 print(descuento("camisa", 100))
+
+
+##Argumento
+# * (posicion) - agrupa en un tupla
+#** (nombre) - agrega en un diccionario
+
+def suma(*args):
+    suma=0
+    for i in args:
+        suma+=i
+    return suma
+
+suma(1,2,3,4,5)
+suma(1,2,3,4,5,6,7,8,9,10)
+
+def show_info(name,age,*gatos):
+    print(f"Nombre: {name}")
+    print(f"Edad: {age}")
+    print("Gatos:")
+    print("-".join(gatos))
+
+show_info("Juan", 25, "afrodita","cassie","kanon")
+
+##kwargs ¿Que es?
+
+def show_info(**user):
+    print(user)
+
+show_info(
+    username="Liann",
+    correo ="lmelanny0604@gmail.com"
+)
+
+def show_inf2(*args,**kwargs):
+    print(">>> Info")
+
+    for value in args :
+        print (value)
+    # print("\n")
+    print(">>>>> Details")
+    for key , value in kwargs.items():
+        print(key,value)
+
+
+show_inf2(
+    'Liann','Python',24,"liannmelanny@gmail.com",
+    courses=["Python","Docker","React"],
+    score=10
+)

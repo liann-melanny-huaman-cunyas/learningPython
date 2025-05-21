@@ -58,4 +58,3 @@ Los paradigmas de programación son enfoques o estilos fundamentales para resolv
 ---
 
 > **Nota:** Muchos lenguajes modernos como Python, JavaScript, C# y Kotlin soportan múltiples paradigmas, lo que permite mezclar enfoques para obtener lo mejor de cada uno.
-
