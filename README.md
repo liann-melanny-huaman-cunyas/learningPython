@@ -26,4 +26,3 @@ Estudiante de Maestría en Gerencia de Tecnologías de la Información
 ### 🚀 Objetivo
 
 Fortalecer las competencias en programación Python orientadas a la ciencia de datos, explorando herramientas y técnicas fundamentales para el análisis, visualización e implementación de modelos de Machine Learning.
-

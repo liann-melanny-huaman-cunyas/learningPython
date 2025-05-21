@@ -1,5 +1,5 @@
 ###Tuplas en Python
-# Las tuplas son similares a las listas, pero son inmutables, 
+# Las tuplas son similares a las listas, pero son inmutables,
 # lo que significa que no se pueden modificar una vez creadas.
 """
 Estructua de datos que permite almacenar una coleccion de elementos
